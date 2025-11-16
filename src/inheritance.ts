@@ -1,3 +1,4 @@
+// * Inheritance means parent property gulo child property gulo pabe , mane child class gulo ager class er property user korte parbe
 class parent {
   name: string;
   sleep: number;

@@ -1,3 +1,5 @@
+//* Abstraction means age teke idea deya takbe , pore oita implement korte hobe, abstract 2 type kora jai, ekta interface use kore & arekta abstract class use kore
+
 // * Using interface
 interface Sound{
   start():void

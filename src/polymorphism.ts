@@ -1,3 +1,5 @@
+//* Polymorphism means ekta method different behavior korbe, mane ekta method different value provide korbe
+
 class Person{
   getSleep(){
     console.log(`ei person ti daily 8 hours gumai`);
